@@ -1,0 +1,57 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.AttachToProcess" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MenuStaff/UIManager.cs">
+    <Files>
+      <File FileName="Assets/MenuStaff/UIManager.cs" Line="506" Column="3" />
+      <File FileName="Assets/Scripts/DisplayManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameScene/Scripts/BackButtonClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ModalPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameScene/Scripts/SendButtonClick.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameScene/Scripts/GuessResultCell.cs" Line="1" Column="1" />
+      <File FileName="Assets/Libs/TSTableView/Examples/Simple/VisibleCounterCell.cs" Line="1" Column="1" />
+      <File FileName="Assets/PushBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameScene/Scripts/DragDropLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameScene/Scripts/NumberGameAI.cs" Line="1" Column="1" />
+      <File FileName="Assets/GameScene/Scripts/GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MultiplayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MPInterfaces.cs" Line="1" Column="1" />
+      <File FileName="Assets/GooglePlayGames/ISocialPlatform/PlayGamesPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DialogueManager.cs" Line="71" Column="29" />
+      <File FileName="Assets/Market.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/PushBehaviour.cs" line="18" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/SettingsController.cs" line="21" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Market.cs" line="211" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/MenuStaff/UIManager.cs" line="483" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/MenuStaff/UIManager.cs" line="505" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/MenuStaff/UIManager.cs" line="517" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="1921" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Libs/TSTableView/TableView.cs" line="127" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Libs/TSTableView/TableView.cs" line="282" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Libs/TSTableView/TableView.cs" line="355" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Libs/TSTableView/TableView.cs" line="272" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Libs/TSTableView/TableView.cs" line="264" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Libs/TSTableView/TableView.cs" line="400" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Libs/TSTableView/TableView.cs" line="155" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Scripts/MultiplayerController.cs" line="353" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Market.cs" line="331" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Scripts/GameData.cs" line="93" column="1" />
+      <Breakpoint enabled="false" file="/Users/alaattinbedir/NumberGame2/Assets/Scripts/GameData.cs" line="63" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="1209" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="1531" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="1615" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="1925" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="2155" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="1549" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="1815" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/SendButtonClick.cs" line="86" column="1" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/GameScene/Scripts/GameController.cs" line="1833" column="40" />
+      <Breakpoint file="/Users/alaattinbedir/NumberGame2/Assets/MenuStaff/UIManager.cs" line="397" column="12" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
